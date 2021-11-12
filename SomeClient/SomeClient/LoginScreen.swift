@@ -1,5 +1,5 @@
 //
-//  FirstScreenViewController.swift
+//  LoginScreen.swift
 //  SomeClient
 //
 //  Created by Александр on 12.11.2021.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstScreenViewController: UIViewController {
+class LoginScreen: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
