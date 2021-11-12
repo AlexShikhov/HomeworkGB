@@ -7,6 +7,14 @@
 //
 
 import Foundation
+//var x : Int?
+//
+//func x (y: Int?) -> String? {
+//    return nil
+//}
 
-print("Hello, World!")
 
+func fir () {
+    func second () { print("1")}
+    second()
+}
